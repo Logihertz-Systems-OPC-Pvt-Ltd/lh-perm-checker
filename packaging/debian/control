@@ -1,0 +1,9 @@
+Package: lh-perm-checker
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Sameer Tawade <ops@logihertz.com>
+Homepage: https://www.logihertz.com
+Description: lh-perm - SUID Escalation Probability & Path Insecurity Vector
+ POSIX filesystem permission and IAM privilege auditor scanning for unauthorized SUID/SGID binaries, world-writable paths, insecure /etc/sudoers rules, and over-permissive cloud IAM policies.
